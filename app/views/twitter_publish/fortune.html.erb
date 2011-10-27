@@ -1,0 +1,103 @@
+<script language="JavaScript" type="text/javascript">
+
+function CngTxt(id,txt){
+ var obj=document.getElementById(id);
+ if (txt){ obj.innerHTML=txt; }
+ else {  obj.innerHTML='some standard text'; }
+}
+
+function funtext(){
+
+}
+
+$('filter_text3').change(function() {
+ alert("Key up detected");
+});
+
+</script>
+
+
+
+<div class="container">
+
+<div class="blank3">
+</div>
+
+<div class="dashboard">
+<ul class="headerul">
+	<li><%= image_tag 'quotehead.png'%></li>
+	<li><div class="dash">Quote of the day... <br>
+	<div class="subhead">Express your feelings through quotes</div></div></li>
+</ul>
+
+<div class="search">
+<% form_for (:filter, :action=>'fortune',:method=>'post') do |f| %>
+<ul class="searchul">
+	<li><%= image_submit_tag 'search.png' , :name => "search" %></li>
+	<li><%= f.text_field "filter_text", :value => @filter, :autofocus => true %></li>
+	<%= f.hidden_field "prevno", :value => @filterno %>
+	<%= f.hidden_field "prevtext", :value => @filter %>
+</ul>
+<% end %>
+</div>
+</div>
+
+<div class="blank4">
+</div>
+
+<div class="message1">
+ <% if flash[:msg]!=nil%>
+     <div class="message2">
+     <%= flash[:msg] %>
+     </div>
+ <% end %>
+</div>
+
+<div class="blank">
+</div>
+
+<% form_tag (:action=>'fortune',:method=>'post') do %>
+
+<div class="quotes">
+<%= @a.quote%>
+</div>
+
+<div class="buttons">
+<%= link_to image_tag('prev.png',:height => "30", :width => "30" ), :action =>'fortune', :method =>"post", :v1 =>@no-1, :id=>1 %>
+<%= link_to image_tag('play.png',:height => "30", :width => "30" ), :action =>'fortune', :method =>"post", :v1 =>@no,   :id=>2  %>
+<%= link_to image_tag('go-next.png',:height => "30", :width => "30" ), :action =>'fortune', :method =>"post", :v1 =>@no+1, :id=>3 %>
+</div>
+
+<div class="postit">
+ <%= link_to image_tag('tweet2.png' ), :action=>"tweet",:id=>@a.id %>
+ &nbsp;&nbsp;
+ <%= link_to image_tag('face2.png' ), :action=>"facebookpost",:id=>@a.id  %>
+
+</div>
+
+<% end %>
+
+
+
+
+   <div class="warning">
+
+   </div>
+
+
+
+<div class="blank2">
+</div>
+ <div class="updates">
+
+    <div class="tweet">
+   	 <%= link_to image_tag('twitter.png',:height => "30", :width => "30" ), "http://twitter.com/#!/eventsparks"  %>
+    </div>
+    Check your twitter and facebook updates here
+    <div class="face">
+   	 <%= link_to image_tag('facebook.png',:height => "30", :width => "30" ), "http://www.facebook.com/pages/Agileblaze/148336241904902?sk=wall"  %>
+    </div>
+  </div>
+
+</div>
+

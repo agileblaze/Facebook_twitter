@@ -1,0 +1,120 @@
+Rails Error: Unable to access log file. Please ensure that /home/users/sreejesh/Desktop/facbooktwiiter/log/development.log exists and is chmod 0666. The log level has been raised to WARN and the output directed to STDERR until the problem is fixed.
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69947615358340_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69947615358340_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69947614689660_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69947614689660_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:15:50 [error] 15707#0: *8 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2011/09/26 18:15:50 [error] 15707#0: *9 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+Rails Error: Unable to access log file. Please ensure that /home/users/sreejesh/Desktop/facbooktwiiter/log/development.log exists and is chmod 0666. The log level has been raised to WARN and the output directed to STDERR until the problem is fixed.
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822716306720_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822716306720_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822715638660_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822715638660_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:16:50 [error] 15794#0: *8 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2011/09/26 18:16:50 [error] 15794#0: *6 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822718321020_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822718321020_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:16:53 [error] 15794#0: *11 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/95/post/1"
+2011/09/26 18:16:53 [error] 15794#0: *12 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/95/post/1"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822716840560_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822716840560_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:16:55 [error] 15794#0: *11 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/95/post/2"
+2011/09/26 18:16:55 [error] 15794#0: *10 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/95/post/2"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822715710940_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822715710940_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:16:55 [error] 15794#0: *9 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/45/post/3"
+2011/09/26 18:16:56 [error] 15794#0: *11 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/45/post/3"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822718721900_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822718721900_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:16:58 [error] 15794#0: *9 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/46/post/3"
+2011/09/26 18:16:58 [error] 15794#0: *8 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/46/post/3"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822717496860_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822717496860_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:17:00 [error] 15794#0: *6 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/45/post/1"
+2011/09/26 18:17:00 [error] 15794#0: *9 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/45/post/1"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822716062540_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_69822716062540_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:17:03 [error] 15794#0: *6 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/44/post/1"
+2011/09/26 18:17:03 [error] 15794#0: *12 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/quotes/44/post/1"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+2011/09/26 18:17:06 [error] 15794#0: *8 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000"
+2011/09/26 18:17:25 [error] 15794#0: *11 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000"
+2011/09/26 18:17:31 [error] 15794#0: *10 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/go-prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/go-prev.png?1316842086 HTTP/1.1", host: "localhost:3000"
+Rails Error: Unable to access log file. Please ensure that /home/users/sreejesh/Desktop/facbooktwiiter/log/development.log exists and is chmod 0666. The log level has been raised to WARN and the output directed to STDERR until the problem is fixed.
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_70093680981400_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_70093680981400_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_70093680312600_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_70093680312600_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:18:48 [error] 15933#0: *9 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2011/09/26 18:18:48 [error] 15933#0: *6 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36: warning: don't put space before argument parentheses
+/home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63: warning: don't put space before argument parentheses
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_70093682999320_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:36)
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_twitter_publish_fortune_html_erb__8565992_70093682999320_0 at /home/users/sreejesh/Desktop/facbooktwiiter/app/views/twitter_publish/fortune.html.erb:63)
+2011/09/26 18:18:54 [error] 15933#0: *11 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2011/09/26 18:18:54 [error] 15933#0: *6 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/prev.png?1316842086 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+
+ActionController::RoutingError (No route matches "/images/.jpg"):
+  
+
+2011/09/26 18:19:05 [error] 15933#0: *10 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/prev.png?1316842086 HTTP/1.1", host: "localhost:3000"
+2011/09/26 18:19:11 [error] 15933#0: *11 open() "/home/users/sreejesh/Desktop/facbooktwiiter/public/images/prev.png" failed (13: Permission denied), client: 192.168.1.31, server: _, request: "GET /images/prev.png?1316842086 HTTP/1.1", host: "localhost:3000"

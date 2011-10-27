@@ -1,0 +1,146 @@
+/*-----------------]: twitter_publish :[---------------------*/
+
+
+body {
+    background-color: Grey;
+    background-position: center top;
+    background-repeat: repeat-y;
+    min-width: 1000px;
+    font-size: 16px;
+    color: white;
+}
+
+body > .container {
+	
+	    text-align: center;
+	    position: absolute;
+ 	    background-color: HighlightText;
+ 	    
+ 	    float: left;
+ 	    min-width: 500px;
+ 	    min-height: 685px;
+ 	    left:15%;
+ 	    right:15%;
+}
+
+a {
+    color: White;
+}
+
+.blank {
+	height:110px;
+
+}
+
+.blank2 {
+	height:150px;
+}
+
+.blank3 {
+	height:20px;
+	background-color: Black;
+}
+
+.blank4 {
+	height:30px;
+	background-color: black;
+}
+
+.subhead {
+	font-size: 15px;
+	text-align: right;
+	margin-top : 10px;
+}
+
+.quotes {
+	
+	font-size: 21px;
+	postion:absolute;
+	height:80px;
+}
+
+.tweet {
+	float: left;
+	margin-left : 200px;
+}
+
+.dashboard {
+	height: 85px;
+	background-color: CaptionText;
+	margin-top: -14px;
+}
+
+.dash {
+	background-image: url('/images/.jpg');
+	height: 85px;
+	text-align: left;
+	font-size: 25px;
+	font-family: fantasy Black;
+	margin-top: 5px;
+	
+}
+
+.search {
+	top: 50px;
+	padding-top: 5px;
+}
+
+
+.face{
+	float: right;
+	margin-right : 200px;
+}
+
+.message1 {
+	padding:10px;
+	height:15px;
+	background:#333;
+}
+
+.message2 {
+	dpadding:10px;
+	text-align: right;
+	height:25px;
+	background:#333;
+	
+}
+
+ul.searchul li {
+	text-align: left;
+    	float: right;
+       	list-style: none;
+   	padding: 3px 0px 3px 0px;
+   	margin: 5px;
+   	border: 0px solid #CCC;
+}
+
+ul.headerul li {
+	text-align: right;
+    	float: left;
+       	list-style: none;
+   	padding: 3px 0px 3px 0px;
+   	margin: 5px;
+   	border: 0px solid #CCC;
+}
+
+.searchbutton {
+	background-image: url('/images/search.jpg');
+}
+
+
+.buttons {
+	padding-top: 20px;
+}
+
+.postit {
+	margin-top : 20px;
+}
+
+.updates {
+	font-size: 16px;
+	color: DimGrey;
+	bottom : 0px;
+	background-color: Black;
+	height:35px;
+	padding-top: 5px;
+}
