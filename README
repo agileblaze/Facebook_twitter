@@ -1,4 +1,4 @@
-Quotes of the Day is Open Source Soluation for Ruby On Rails.It is developed by Agileblaze Technologies Pvt Ltd.
+Quotes of the Day is Open Source Solution for Ruby On Rails.It is developed by Agileblaze Technologies Pvt Ltd.
 Check Demo:-http://quotesoftheday.heroku.com/.
 
 
@@ -12,3 +12,4 @@ Run the following commands from your Project root directory.
 2)rake db:create
 3)rake db:migrate
 4)rails s -p 3001 #---- take http://localhost:3001/.
+
