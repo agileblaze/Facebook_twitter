@@ -1,6 +1,6 @@
 development:
-  consumer_key: 'p4UtuK8ROcf85rolmbBGw'
-  consumer_secret: 'Ufq2qtQSOMlUYCmJdZ3IU5dTq5AfomPDF77Rsvow'
-  oauth_token: '300681713-DCKUpVW4Rw77URCsm3y5k9J2JdDichjqYLjyqcUj'
-  oauth_token_secret: 'nB0Mhyyr8DSVLgujNOTesxFQk2ScUD0lv8FKCN0chQ'
+  consumer_key: < Consumer Key>
+  consumer_secret: < Consumer Secret>
+  oauth_token: < Oauth Token >
+  oauth_token_secret: < Ouath Token Secret >
 
