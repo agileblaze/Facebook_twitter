@@ -4,7 +4,9 @@ Check Demo:-http://quotesoftheday.heroku.com/.
 
 Running Application.
 
-Download it from github.Run the following commands from your Project root directory.
+Download it from github. You need to give details to config/facebook.yml and config/twitter.yml file.
+
+Run the following commands from your Project root directory.
 
 1)bundle install
 2)rake db:create
